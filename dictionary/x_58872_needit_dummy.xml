@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Dummy" max_length="40" name="x_58872_needit_dummy" type="collection">
+        <element label="x" max_length="255" name="x" type="string"/>
+    </element>
+</database>
